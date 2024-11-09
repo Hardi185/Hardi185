@@ -27,6 +27,9 @@ Learning Together: If you're learning to code or working on your own projects, I
 🌐 Let's Connect:
 
 Open to Collaborations: Have an idea or project? Let’s work together!
+
 Tech Discussions: If you want to chat about coding, frameworks, or data, I’m always up for a conversation.
+
 Need Help? Feel free to ask for assistance with your projects or problem-solving challenges — I’m happy to help where I can.
+
 💼 Open for Freelancing: I'm available for freelance projects! If you need help with web development, database optimization, or full-stack applications, reach out. Let’s build something awesome together! 👨‍💻
