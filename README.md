@@ -28,7 +28,7 @@
 ### 💻 **Techs & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,react,vue,ts,nodejs,html,css,bootstrap,tailwindcss,js,csharp,dotnet,postgresql,mysql,spring,git,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,angular,react,vue,ts,nodejs,html,css,bootstrap,tailwindcss,js,cpp,dotnet,postgresql,mysql,spring,git,vscode,postman,azure,mssql&perline=10" />
   </a>
 </p>
 
