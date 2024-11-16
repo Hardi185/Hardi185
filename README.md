@@ -36,14 +36,14 @@
 
 ### 🌐 **Connect With Me**  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/hardi-jadvani-1a1711238/" target="_blank">
     <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://github.com/your-github" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="40" />
+  <a href="mailto:hardirj002@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
   </a>
 </p>
 
