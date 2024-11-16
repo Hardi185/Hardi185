@@ -1,35 +1,60 @@
-## 👋 Hey there! It's Hardi
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" width="100%">
 
-A Software Engineer on a mission to transform complex challenges into smooth, efficient solutions. My toolkit? It’s loaded with front-end magic (hello, Angular) and back-end power (Java and .NET, though I’m flexible and quick to adapt to new tech). With a strong foundation in database expertise, I’m all about keeping things running seamlessly and scaling them to new heights. 🚀
+# ✨ Hi, I'm Hardi! ✨  
+**Software Engineer | Full-Stack Developer | Problem Solver 🚀**  
 
-📚 What I Do:
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Languages & Tools: I code in Java, JavaScript, TypeScript, HTML/CSS, SQL, and C#.
+### 🔭 **What I’m Working On**
+- Building **scalable full-stack applications** with **Angular**, **Java**, **.NET**, and **PostgreSQL**.  
+- Crafting seamless **user experiences** using modern frameworks and libraries like **AG-Grid** and **Highcharts**.  
+- Solving algorithmic challenges to enhance my problem-solving skills on **HackerRank** and **LeetCode**.  
 
-Frameworks: I use Angular, .NET, Spring Boot, and enjoy working with data visualization tools like Highcharts and AG-Grid to make information clear and easy to understand.📊
+### 🌟 **Currently Exploring**
+- **Cloud Computing** and expanding my skills in **Azure**.  
+- Exploring **data visualization** and creating user-friendly dashboards.  
+- Delving into **microservices architecture** for efficient application scaling.  
 
-Problem Solving: I regularly practice and sharpen my coding skills on platforms like HackerRank and LeetCode, tackling algorithm challenges and improving my problem-solving techniques.🧠
+---
 
-💡 How I Can Help You:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider gif" width="100%">
 
-Full-Stack Projects: Whether you need help with front-end design or back-end logic, I’m here to assist with building full-stack applications.
+### 💻 **Tech Stack**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,angular,ts,html,css,js,csharp,net,postgres,spring,docker,git,vscode&perline=10" />
+  </a>
+</p>
 
-Data Visualization & UI/UX: I can help make your data easy to understand and improve your app's user experience by optimizing interfaces.
+---
 
-Database Optimization: I have experience with databases and can help with performance, queries, or designing scalable systems.
+### 💡 **How I Can Help You**
+- **Full-Stack Development:** Building robust web applications, from front-end to back-end.  
+- **UI/UX Enhancement:** Crafting interactive and visually appealing user interfaces.  
+- **Database Optimization:** Designing scalable systems and writing efficient queries.  
+- **Problem Solving:** Helping with algorithm challenges or debugging tricky issues.  
 
-Problem Solving: Need help with coding challenges or algorithms? I'm actively involved in solving problems on HackerRank and LeetCode, and I’d be happy to help you improve your problem-solving skills.
+---
 
-Learning Together: If you're learning to code or working on your own projects, I’d love to collaborate, share ideas, or help you get unstuck.
+### 🌐 **Connect With Me**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="40" />
+  </a>
+</p>
 
-🎨 About Me: I’m a curious learner who enjoys exploring new technologies and contributing to open-source projects. Currently, I’m diving deeper into full-stack development to expand my skills. I believe in keeping things simple and effective.
+---
 
-🌐 Let's Connect:
+### 📫 **Let’s Collaborate!**
+- Need help on your project? I'm open to **freelancing opportunities**.  
+- Have a cool idea? Let’s brainstorm and build something amazing!  
 
-Open to Collaborations: Have an idea or project? Let’s work together!
-
-Tech Discussions: If you want to chat about coding, frameworks, or data, I’m always up for a conversation.
-
-Need Help? Feel free to ask for assistance with your projects or problem-solving challenges — I’m happy to help where I can.
-
-💼 Open for Freelancing: I'm available for freelance projects! If you need help with web development, database optimization, or full-stack applications, reach out. Let’s build something awesome together! 👨‍💻
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" width="100%">
