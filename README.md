@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/hardi-jadvani-1a1711238/" target="_blank">
     <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://x.com/Hardirj185/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="40" width="40" />
   </a>
   <a href="mailto:hardirj002@gmail.com" target="_blank">
