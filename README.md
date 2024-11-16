@@ -3,10 +3,6 @@
 # ✨ Hi, I'm Hardi! ✨  
 **Software Engineer | Full-Stack Developer | Problem Solver 🚀**  
 
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 ### 🔭 **What I’m Working On**
 - Building **scalable full-stack applications** with **Angular**, **Java**, **.NET**, and **PostgreSQL**.  
 - Crafting seamless **user experiences** using modern frameworks and libraries like **AG-Grid** and **Highcharts**.  
