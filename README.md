@@ -1,34 +1,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" width="100%">
 
-# ✨ Hi, I'm Hardi! ✨  
-**Software Engineer | Full-Stack Developer | Problem Solver 🚀**  
+# 👋 Hey there! It's Hardi  
+**Versatile Developer | Full Stack | Web | High impact solution | Problem Solver 🚀** 
 
-### 🔭 **What I’m Working On**
-- Building **scalable full-stack applications** with **Angular**, **Java**, **.NET**, and **PostgreSQL**.  
-- Crafting seamless **user experiences** using modern frameworks and libraries like **AG-Grid** and **Highcharts**.  
-- Solving algorithmic challenges to enhance my problem-solving skills on **HackerRank** and **LeetCode**.  
+🔭 A Software Engineer on a mission to transform complex challenges into smooth, efficient solutions.
 
-### 🌟 **Currently Exploring**
-- **Cloud Computing** and expanding my skills in **Azure**.  
-- Exploring **data visualization** and creating user-friendly dashboards.  
-- Delving into **microservices architecture** for efficient application scaling.  
+### 🌟 **About me**
+- I’m a curious learner who enjoys exploring new technologies and contributing to open-source projects.
+- Currently, I’m diving deeper into full-stack development with different techs and tools to expand my skills.
+- I believe in keeping things simple and effective.
+
+### 📫 **Let’s Collaborate!**
+- Have an idea or project? Let’s work together! I'm open to **freelancing opportunities**.
+- Tech Discussions: If you want to chat about coding, frameworks, or data, I’m always up for a conversation. Need Help? Feel free to ask for assistance with your projects or problem-solving challenges — I’m happy to help where I can. Reach out to me here on GitHub, and let’s build something awesome together.
+
+### 💡 **How I Can Help You**
+- **Full-Stack Development:** Whether you need help with front-end design or back-end logic, I’m here to assist with building full-stack applications.
+- **Data Visualization & UI/UX: I can help make your data easy to understand and improve your app's user experience by optimizing interfaces.
+- **Problem Solving: Need help with coding challenges or algorithms? I'm actively involved in solving problems on HackerRank and LeetCode, and I’d be happy to help you improve your problem-solving skills.
+- **Learning Together: If you're learning to code or working on your own projects, I’d love to collaborate, share ideas, or help you get unstuck.
 
 ---
 
 ### 💻 **Techs & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,ts,html,css,js,csharp,net,postgres,spring,docker,git,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=javaangular,ts,html,css,js,csharp,net,postgres,spring,git,vscode&perline=10" />
   </a>
 </p>
-
----
-
-### 💡 **How I Can Help You**
-- **Full-Stack Development:** Building robust web applications, from front-end to back-end.  
-- **UI/UX Enhancement:** Crafting interactive and visually appealing user interfaces.  
-- **Database Optimization:** Designing scalable systems and writing efficient queries.  
-- **Problem Solving:** Helping with algorithm challenges or debugging tricky issues.  
 
 ---
 
@@ -47,8 +46,7 @@
 
 ---
 
-### 📫 **Let’s Collaborate!**
-- Need help on your project? I'm open to **freelancing opportunities**.  
-- Have a cool idea? Let’s brainstorm and build something amazing!  
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" width="100%">
